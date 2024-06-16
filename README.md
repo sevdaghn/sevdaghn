@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sevda</h1>
-<h3 align="center">i’m a 20 year old student who is interested in Arts & Media & Podcasting and Coding.</h3>
+<h3 align="center">i’m a 21 year old student who is interested in Arts & Media & Podcasting and Coding.</h3>
 
 - 🌱 I’m currently a student at **Beykent University**
 
-- 👨‍💻 Visit my Linkedin profile [https://www.linkedin.com/in/sevda-ghasemzadeh-557722207/](https://www.linkedin.com/in/sevda-ghasemzadeh-557722207/)
+- 👨‍💻 Visit my Linkedin profile [https://www.linkedin.com/in/sevda-ghasemzadeh/](https://www.linkedin.com/in/sevda-ghasemzadeh/)
 
 - 📫 How to reach me **sevdaghn82@gmail.com**
 
